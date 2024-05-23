@@ -3,6 +3,6 @@ Hey! I'm Nxyy, the founder of Nxyy's Hosting, this GitHub organization is to hel
 
 Main Website: https://nxyypvp.tk
 
-Client: https://client.nxyypvp.tk
+Client: https://client.nxyy.site
 
-Panel: https://panel.nxyypvp.tk
+Panel: https://panel.nxyy.site
